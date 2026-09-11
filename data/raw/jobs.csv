@@ -1,0 +1,141 @@
+JobID,CustomerID,JobName,ProjectType,StartDate,ScheduledEndDate,ActualEndDate,ContractValue,Status,ProjectManager
+JOB0001,CUST0021,Consulting Project 001,Consulting,2025-08-24,2026-02-14,,75464.46,Planned,Nadia Roy
+JOB0002,CUST0008,Installation Project 002,Upgrade,2025-07-12,2025-09-30,,173854.07,Active,Amelia Scott
+JOB0003,CUST0018,Renovation Project 003,Consulting,2025-04-24,2025-07-15,,101159.8,On Hold,Ethan Walker
+JOB0004,CUST0021,Upgrade Project 004,Consulting,2025-02-13,2025-08-04,,14345.94,On Hold,Ethan Walker
+JOB0005,CUST0044,Upgrade Project 005,Installation,2025-06-16,2025-08-21,2025-08-16,282150.49,Completed,Ethan Walker
+JOB0006,CUST0039,Renovation Project 006,Consulting,2025-07-02,2025-10-30,2025-11-26,44953.98,Completed,Nadia Roy
+JOB0007,CUST0060,Upgrade Project 007,Upgrade,2025-04-18,2025-05-21,2025-05-14,234981.36,Completed,Ethan Walker
+JOB0008,CUST9999,Renovation Project 008,Maintenance,2026-07-15,2026-12-27,,173583.91,Active,Camille Gagnon
+JOB0009,CUST0029,Consulting Project 009,Consulting,2025-06-03,2025-08-05,,291750.03,On Hold,Camille Gagnon
+JOB0010,CUST0045,Renovation Project 010,Installation,2025-01-21,2025-03-08,,28102.47,On Hold,Noah Patel
+JOB0011,CUST0046,Installation Project 011,Renovation,2025-08-10,2025-10-29,,294290.79,On Hold,Amelia Scott
+JOB0012,CUST0054,Installation Project 012,Maintenance,2025-06-27,2025-10-30,,115374.93,Active,Amelia Scott
+JOB0013,CUST0036,Upgrade Project 013,Upgrade,2025-10-18,2026-01-15,2026-02-02,122962.06,Completed,Ethan Walker
+JOB0014,CUST0025,Consulting Project 014,Upgrade,2025-12-24,2026-03-30,,341911.7,On Hold,Ethan Walker
+JOB0015,CUST0011,Installation Project 015,Installation,2025-10-28,2026-01-20,,61861.87,On Hold,Noah Patel
+JOB0016,CUST0010,Maintenance Project 016,Consulting,2025-09-28,2026-01-03,,92142.15,On Hold,Camille Gagnon
+JOB0017,CUST0051,Installation Project 017,Upgrade,2025-12-30,2026-04-02,,86262.67,Planned,Camille Gagnon
+JOB0018,CUST0052,Installation Project 018,Installation,2026-02-01,2026-04-26,,165531.53,On Hold,Ethan Walker
+JOB0019,CUST0058,Maintenance Project 019,Upgrade,2025-06-29,2025-12-26,,314928.61,On Hold,Camille Gagnon
+JOB0020,CUST0028,Maintenance Project 020,Maintenance,2026-07-24,2026-08-07,,146587.59,Active,Amelia Scott
+JOB0021,CUST0051,Maintenance Project 021,Upgrade,2025-05-21,2025-08-26,,197797.17,Active,Ethan Walker
+JOB0022,CUST0030,Consulting Project 022,Renovation,2026-06-01,2026-08-05,2026-08-02,228632.44,Completed,Noah Patel
+JOB0023,CUST0012,Maintenance Project 023,Installation,2025-09-05,2026-01-31,,169046.96,Planned,Ethan Walker
+,CUST0048,Maintenance Project 024,Maintenance,2025-04-21,2025-07-20,,186521.49,Planned,Amelia Scott
+JOB0025,CUST0060,Renovation Project 025,Maintenance,2026-02-24,2026-07-16,,213844.72,Active,Ethan Walker
+JOB0026,CUST0038,Upgrade Project 026,Upgrade,2025-12-16,2026-03-07,,78181.43,Planned,Camille Gagnon
+JOB0027,CUST0050,Consulting Project 027,Maintenance,2025-06-19,2025-07-23,,265405.81,Planned,Amelia Scott
+JOB0028,CUST0030,Consulting Project 028,Consulting,2025-06-30,2025-10-17,2025-10-11,33923.63,Completed,Noah Patel
+JOB0029,CUST0043,Consulting Project 029,Maintenance,2025-02-25,2025-06-26,,258945.96,Planned,Ethan Walker
+JOB0030,CUST0025,Installation Project 030,Consulting,2025-11-01,2026-04-27,,82276.66,Active,Nadia Roy
+JOB0031,CUST0050,Maintenance Project 031,Renovation,2026-03-02,2026-06-14,,327064.83,Active,Camille Gagnon
+JOB0032,CUST0029,Installation Project 032,Consulting,2025-07-08,2025-08-21,,300964.33,On Hold,Amelia Scott
+JOB0033,CUST0024,Consulting Project 033,Renovation,2026-05-13,2026-08-23,,105437.67,On Hold,Camille Gagnon
+JOB0034,CUST0060,Consulting Project 034,Installation,2025-01-31,2025-02-23,2025-03-16,312821.2,Completed,Noah Patel
+JOB0035,CUST0017,Installation Project 035,Renovation,2026-07-11,2026-09-12,,272620.23,On Hold,Amelia Scott
+JOB0036,CUST0007,Installation Project 036,Upgrade,2025-06-26,2025-12-19,2025-12-21,235522.9,Completed,Camille Gagnon
+JOB0037,CUST0027,Renovation Project 037,Installation,2025-07-26,2026-01-21,2026-01-26,79695.08,Completed,Amelia Scott
+JOB0038,CUST0021,Renovation Project 038,Upgrade,2026-06-02,2026-11-25,2026-12-22,81391.69,Completed,Nadia Roy
+JOB0039,CUST0008,Consulting Project 039,Maintenance,2025-08-21,2025-08-09,2025-09-24,287939.15,Completed,Amelia Scott
+JOB0040,CUST0014,Consulting Project 040,Installation,2026-05-01,2026-07-31,,272370.49,Planned,Camille Gagnon
+JOB0041,CUST0012,Consulting Project 041,Installation,2026-02-01,2026-05-15,,332851.56,Planned,Noah Patel
+JOB0042,CUST0001,Consulting Project 042,Upgrade,2025-09-28,2025-11-30,,41702.55,Planned,Noah Patel
+JOB0043,CUST0041,Maintenance Project 043,Installation,2025-01-13,2025-03-22,,312824.9,On Hold,Amelia Scott
+JOB0044,CUST0045,Maintenance Project 044,Maintenance,2026-04-16,2026-06-05,,191730.83,Active,Camille Gagnon
+JOB0045,CUST0046,Upgrade Project 045,Upgrade,2026-01-12,2026-03-26,,53582.28,Active,Noah Patel
+JOB0046,CUST0036,Maintenance Project 046,Upgrade,2025-09-29,2025-12-19,,217992.63,Planned,Amelia Scott
+JOB0047,CUST0053,Renovation Project 047,Consulting,2025-01-26,2025-05-19,2025-06-03,144202.18,Completed,Amelia Scott
+JOB0048,CUST0025,Installation Project 048,Upgrade,2025-09-05,2025-10-19,,136249.96,Active,Camille Gagnon
+JOB0049,CUST0030,Maintenance Project 049,Installation,2026-01-28,2026-04-28,,153819.31,Active,Nadia Roy
+JOB0050,CUST0003,Installation Project 050,Consulting,2026-03-22,2026-08-06,2026-09-01,157520.15,Completed,Camille Gagnon
+JOB0051,CUST0023,Consulting Project 051,Upgrade,2025-01-08,2025-02-21,,286633.35,On Hold,Camille Gagnon
+JOB0052,CUST0035,Consulting Project 052,Consulting,2026-05-29,2026-08-31,2026-09-02,271366.9,Completed,Ethan Walker
+JOB0053,CUST0057,Upgrade Project 053,Upgrade,2026-04-08,2026-06-29,,306200.13,Planned,Amelia Scott
+JOB0054,CUST0047,Consulting Project 054,Consulting,2026-03-16,2026-06-26,,129609.0,Planned,Ethan Walker
+JOB0055,CUST0045,Consulting Project 055,Upgrade,2026-07-11,2026-10-08,2026-10-28,261314.19,Completed,Amelia Scott
+JOB0056,CUST0004,Renovation Project 056,Maintenance,2025-12-15,2026-04-25,2026-05-01,186703.89,Completed,Amelia Scott
+JOB0057,CUST0046,Upgrade Project 057,Installation,2026-05-25,2026-07-15,,27273.67,On Hold,Nadia Roy
+JOB0058,CUST0016,Renovation Project 058,Installation,2025-07-31,2025-10-06,,347995.44,On Hold,Amelia Scott
+JOB0059,CUST0045,Upgrade Project 059,Installation,2025-03-13,2025-08-20,,18554.39,On Hold,Amelia Scott
+JOB0060,CUST0047,Maintenance Project 060,Upgrade,2025-11-02,2025-11-25,2025-12-11,144600.35,Completed,Nadia Roy
+JOB0061,CUST0048,Consulting Project 061,Consulting,2025-07-22,2025-11-14,2025-12-02,222300.46,Completed,Noah Patel
+JOB0062,CUST0020,Upgrade Project 062,Consulting,2025-07-06,2025-08-19,2025-09-17,13226.0,Completed,Nadia Roy
+JOB0063,CUST0049,Upgrade Project 063,Upgrade,2025-03-18,2025-04-13,,333667.13,On Hold,Camille Gagnon
+JOB0064,CUST0043,Upgrade Project 064,Upgrade,2026-05-17,2026-10-05,,262096.43,Active,Noah Patel
+JOB0065,CUST0017,Maintenance Project 065,Consulting,2026-01-29,2026-06-10,,41221.73,Planned,Amelia Scott
+JOB0066,CUST0005,Renovation Project 066,Maintenance,2026-04-08,2026-07-20,,240589.98,On Hold,Noah Patel
+JOB0067,CUST0028,Maintenance Project 067,Upgrade,2025-04-08,2025-06-16,,228406.98,Planned,Amelia Scott
+JOB0068,CUST0045,Installation Project 068,Upgrade,2025-09-06,2025-11-14,,286980.51,Active,Ethan Walker
+JOB0069,CUST0029,Consulting Project 069,Maintenance,2026-01-06,2026-04-08,,17264.94,Planned,Ethan Walker
+JOB0070,CUST0038,Upgrade Project 070,Maintenance,2026-06-23,2026-10-12,,289459.76,Planned,Camille Gagnon
+JOB0071,CUST0037,Consulting Project 071,Renovation,2025-02-20,2025-04-16,,252266.19,Active,Nadia Roy
+JOB0072,CUST0026,Maintenance Project 072,Maintenance,2026-02-09,2026-07-29,,98349.26,Active,Ethan Walker
+JOB0073,CUST0022,Installation Project 073,Upgrade,2026-02-26,2026-07-14,2026-07-30,154506.0,Completed,Ethan Walker
+JOB0074,CUST0019,Consulting Project 074,Upgrade,2025-04-07,2025-08-12,2025-08-11,344670.82,Completed,Nadia Roy
+JOB0075,CUST0045,Renovation Project 075,Maintenance,2025-12-24,2026-06-15,2026-07-04,317911.44,Completed,Nadia Roy
+JOB0076,CUST0058,Consulting Project 076,Upgrade,2025-11-06,2025-12-20,,158655.05,Planned,Ethan Walker
+JOB0077,CUST0048,Renovation Project 077,Upgrade,2025-09-25,2026-01-17,,138723.2,On Hold,Noah Patel
+JOB0078,CUST0027,Maintenance Project 078,Renovation,2025-04-17,2025-05-21,2025-06-02,303975.78,Completed,Nadia Roy
+JOB0079,CUST0040,Renovation Project 079,Upgrade,2025-12-28,2026-06-16,,29808.21,Planned,Ethan Walker
+JOB0080,CUST0032,Maintenance Project 080,Renovation,2026-05-06,2026-08-01,2026-07-28,158826.03,Completed,Camille Gagnon
+JOB0081,CUST0045,Installation Project 081,Upgrade,2025-04-19,2025-07-16,,102308.82,On Hold,Noah Patel
+JOB0082,CUST0044,Upgrade Project 082,Maintenance,2025-06-30,2025-09-01,,148363.86,On Hold,Nadia Roy
+JOB0083,CUST0046,Upgrade Project 083,Renovation,2026-05-17,2026-09-09,,190557.34,Active,Nadia Roy
+JOB0084,CUST0030,Renovation Project 084,Consulting,2026-02-05,2026-03-15,2026-04-09,248244.34,Completed,Nadia Roy
+JOB0085,CUST0015,Consulting Project 085,Maintenance,2026-01-11,2026-03-08,2026-03-02,268660.44,Completed,Nadia Roy
+JOB0086,CUST0023,Upgrade Project 086,Consulting,2026-07-26,2027-01-17,2027-02-02,311472.76,Completed,Noah Patel
+JOB0087,CUST0017,Upgrade Project 087,Consulting,2025-03-15,2025-06-18,,268464.17,On Hold,Ethan Walker
+JOB0088,CUST0049,Installation Project 088,Installation,2025-06-09,2025-07-08,,129441.16,Planned,Noah Patel
+JOB0089,CUST0028,Consulting Project 089,Renovation,2025-04-05,2025-06-09,,35601.93,On Hold,Nadia Roy
+JOB0090,CUST0032,Renovation Project 090,Upgrade,2026-07-27,2026-12-23,,194059.52,Active,Noah Patel
+JOB0091,CUST0055,Renovation Project 091,Maintenance,2025-01-28,2025-05-19,,218806.26,Planned,Camille Gagnon
+JOB0092,CUST0001,Renovation Project 092,Upgrade,2026-07-26,2026-11-16,,50574.11,Planned,Ethan Walker
+JOB0093,CUST0031,Installation Project 093,Renovation,2026-01-01,2026-03-18,,333623.24,Active,Amelia Scott
+JOB0094,CUST0057,Renovation Project 094,Installation,2025-02-24,2025-03-21,,254182.23,Planned,Camille Gagnon
+JOB0095,CUST0050,Renovation Project 095,Consulting,2025-10-25,2026-03-12,,166765.07,Active,Amelia Scott
+JOB0096,CUST0029,Consulting Project 096,Installation,2025-02-10,2025-04-20,,307166.72,Planned,Noah Patel
+JOB0097,CUST0007,Upgrade Project 097,Renovation,2025-06-26,2025-10-25,2025-11-13,344866.94,Completed,Amelia Scott
+JOB0098,CUST0031,Renovation Project 098,Upgrade,2025-06-04,2025-09-27,,65401.34,Active,Noah Patel
+JOB0099,CUST0009,Upgrade Project 099,Installation,2025-01-08,2025-06-18,,155120.38,Planned,Amelia Scott
+JOB0100,CUST0001,Upgrade Project 100,Maintenance,2025-08-18,2025-10-09,2025-10-14,290920.63,Completed,Amelia Scott
+JOB0101,CUST0037,Consulting Project 101,Consulting,2025-12-26,2026-05-22,2026-05-29,201780.25,Completed,Ethan Walker
+JOB0102,CUST0060,Installation Project 102,Consulting,2026-02-04,2026-05-29,,187788.45,Active,Ethan Walker
+JOB0103,CUST0037,Consulting Project 103,Consulting,2025-11-30,2026-01-08,2026-01-29,306128.66,Completed,Camille Gagnon
+JOB0104,CUST0048,Renovation Project 104,Upgrade,2025-06-27,2025-08-02,,138975.56,Planned,Amelia Scott
+JOB0105,CUST0005,Maintenance Project 105,Consulting,2025-09-29,2025-10-27,,58390.47,On Hold,Nadia Roy
+JOB0106,CUST0051,Upgrade Project 106,Consulting,2026-04-27,2026-10-09,,292546.11,On Hold,Nadia Roy
+JOB0107,CUST0049,Consulting Project 107,Maintenance,2025-12-13,2026-02-06,,179964.47,Planned,Nadia Roy
+JOB0108,CUST0032,Renovation Project 108,Consulting,2025-07-06,2025-08-21,,326022.23,Active,Nadia Roy
+JOB0109,CUST0027,Upgrade Project 109,Maintenance,2026-07-10,2026-09-10,,317028.39,On Hold,Ethan Walker
+JOB0110,CUST0040,Upgrade Project 110,Maintenance,2025-12-13,2026-02-03,,141709.84,On Hold,Camille Gagnon
+JOB0111,CUST0009,Consulting Project 111,Installation,2026-06-26,2026-10-26,2026-10-25,61032.73,Completed,Noah Patel
+JOB0112,CUST0054,Maintenance Project 112,Maintenance,2025-04-21,2025-08-28,,343945.29,Planned,Ethan Walker
+JOB0113,CUST0032,Renovation Project 113,Renovation,2025-07-03,2025-09-11,2025-09-11,60768.77,Completed,Amelia Scott
+JOB0114,CUST0034,Maintenance Project 114,Upgrade,2025-02-25,2025-08-22,2025-08-23,218324.07,Completed,Camille Gagnon
+JOB0115,CUST0057,Maintenance Project 115,Renovation,2025-01-05,2025-05-05,,62271.48,On Hold,Noah Patel
+JOB0116,CUST0002,Installation Project 116,Installation,2025-07-21,2025-08-05,,189948.75,On Hold,Amelia Scott
+JOB0117,CUST0047,Upgrade Project 117,Maintenance,2026-06-22,2026-09-15,,232185.17,Active,Camille Gagnon
+JOB0118,CUST0009,Upgrade Project 118,Upgrade,2025-11-04,2025-12-04,,245737.24,On Hold,Nadia Roy
+JOB0119,CUST0056,Renovation Project 119,Maintenance,2025-03-29,2025-06-23,,37230.94,On Hold,Amelia Scott
+JOB0120,CUST0052,Maintenance Project 120,Consulting,2026-03-15,2026-09-02,,207524.63,On Hold,Nadia Roy
+JOB0121,CUST0055,Consulting Project 121,Maintenance,2025-06-24,2025-10-08,,319657.55,Planned,Noah Patel
+JOB0122,CUST0056,Upgrade Project 122,Upgrade,2025-04-04,2025-06-09,,28893.68,Active,Nadia Roy
+JOB0123,CUST0010,Upgrade Project 123,Consulting,2025-11-24,2026-02-10,,264306.05,Active,Camille Gagnon
+JOB0124,CUST0023,Installation Project 124,Consulting,2025-07-10,2025-08-26,,198901.06,Active,Noah Patel
+JOB0125,CUST0059,Upgrade Project 125,Installation,2025-04-16,2025-05-28,2025-05-27,303540.96,Completed,Amelia Scott
+JOB0126,CUST0028,Installation Project 126,Maintenance,2025-11-14,2026-03-08,2026-03-10,240877.22,Completed,Noah Patel
+JOB0127,CUST0047,Upgrade Project 127,Renovation,2026-03-29,2026-05-16,2026-05-21,143532.99,Completed,Nadia Roy
+JOB0128,CUST0059,Renovation Project 128,Consulting,2025-12-29,2026-01-17,2026-01-20,320704.07,Completed,Ethan Walker
+JOB0129,CUST0040,Installation Project 129,Renovation,2026-03-27,2026-06-08,2026-05-31,175920.4,Completed,Amelia Scott
+JOB0130,CUST0012,Renovation Project 130,Renovation,2025-11-02,2025-11-19,,146740.23,Planned,Nadia Roy
+JOB0131,CUST0057,Renovation Project 131,Consulting,2025-06-01,2025-07-02,2025-07-26,36405.83,Completed,Noah Patel
+JOB0132,CUST0055,Renovation Project 132,Consulting,2025-04-04,2025-07-28,,42172.13,Active,Amelia Scott
+JOB0133,CUST0001,Consulting Project 133,Renovation,2025-01-09,2025-02-09,2025-02-05,105954.45,Completed,Amelia Scott
+JOB0134,CUST0043,Consulting Project 134,Installation,2026-01-21,2026-05-16,2026-05-15,101056.85,Completed,Ethan Walker
+JOB0135,CUST0031,Maintenance Project 135,Maintenance,2026-01-25,2026-07-11,2026-07-08,174830.09,Completed,Camille Gagnon
+JOB0136,CUST0032,Installation Project 136,Upgrade,2026-07-27,2026-11-13,,147577.71,On Hold,Noah Patel
+JOB0137,CUST0049,Renovation Project 137,Maintenance,2026-01-17,2026-03-14,,279807.11,On Hold,Camille Gagnon
+JOB0138,CUST0056,Upgrade Project 138,Renovation,2025-01-06,2025-04-14,2025-05-04,145983.25,Completed,Camille Gagnon
+JOB0139,CUST0024,Maintenance Project 139,Upgrade,2025-09-18,2025-11-01,,156280.77,On Hold,Camille Gagnon
+JOB0140,CUST0055,Installation Project 140,Upgrade,2026-01-29,2026-07-16,,287576.62,Active,Noah Patel
